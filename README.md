@@ -50,9 +50,9 @@ would have said 26 times faster and meant nothing.
 
 ## What it took to build
 
-⏱️ **1.8 hours** from the first command to the published repository, **1.8** of them active<br>
+⏱️ **1.9 hours** from the first command to the published repository, **1.9** of them active<br>
 💬 **433** exchanges with the model<br>
-✍️ **449,269** tokens written by the model, **119,928,922** counting everything sent and re-sent<br>
+✍️ **487,424** tokens written by the model, **143,299,685** counting everything sent and re-sent<br>
 🙋 **0** questions to a human<br>
 🧪 **84** tests
 
